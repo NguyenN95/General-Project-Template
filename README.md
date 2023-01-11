@@ -51,7 +51,6 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
-        <!-- <li><a href="#dependencies">Dependencies</a></li> -->
       </ul>
     </li>
     <li>
@@ -93,19 +92,10 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 
-<!-- ### Dependencies
-
-* Your Dependencies here
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
@@ -138,7 +128,7 @@ npm install npm@latest -g
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more information about ..., please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -212,7 +202,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Nguyen - [@Nguyen Linkedin](https://www.linkedin.com/in/binhnguyennguyen/)
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
