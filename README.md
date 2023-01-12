@@ -100,23 +100,19 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 Update your npm and nodejs to LTS version or above if you have your nodejs installed.
-```sh
+```bash
 npm install npm@latest -g
 ```
 
 ### Installation
 
 1. Clone the repo
-   ```sh
+   ```bash
    git clone https://github.com/github_username/repo_name.git
    ```
 2. Install NPM packages
-   ```sh
+   ```bash
    npm install
-   ```
-3. Run project development mode
-   ```sh
-   npm run watch
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -138,7 +134,7 @@ _For more information about ..., please refer to the [Documentation](https://exa
 ## Help
 
 Any advise for common problems or issues.
-```
+```bash
 command to run if program contains helper info
 ```
 
