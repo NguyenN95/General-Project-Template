@@ -180,7 +180,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@linkedin][linkedin-url] - nguyennguyen7595@gmail.com
+Nguyen - [@linkedin][linkedin-url] - nguyennguyen7595@gmail.com
 
 Project Link: [https://github.com/NguyenN95/repo_name](https://github.com/NguyenN95/repo_name)
 
