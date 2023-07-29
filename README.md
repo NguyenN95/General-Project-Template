@@ -24,7 +24,7 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/NguyenN95/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/NguyenN95/repo_name#about-the-project"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/NguyenN95/repo_name">View Demo</a>
