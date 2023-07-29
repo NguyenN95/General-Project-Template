@@ -191,7 +191,19 @@ Project Link: [https://github.com/NguyenN95/repo_name](https://github.com/Nguyen
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
+**README.md Template**
+
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+
+**Markdown + Shields.io + Emoji**
+
+* [How to make custom language badges for your profile using shields.io](https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b)
+* [Markdown-badges](https://github.com/Ileriayo/markdown-badges)
+* [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+**VS Code Extension**
+
+* [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
